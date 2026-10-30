@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "comm_001",
+    "postId": "post_001",
+    "userId": "usr_expert_001",
+    "authorName": "Dr. Aris Thorne",
+    "authorRole": "Agricultural Expert",
+    "content": "Excellent initiative Ramesh! Morning irrigation minimizes leaf wetness duration, which significantly curbs spore germination for rusts and blights.",
+    "createdAt": "2026-10-22T09:40:00.000Z"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "usr_farmer_001",
+    "name": "Ramesh Patel",
+    "email": "farmer@agritech.com",
+    "phone": "+91 98765 43210",
+    "password": "$2b$10$OhAmzdVIv0A2IFaWHBdgIuqkZbhpDBEObiO/MBaJp2zakusK.ENr2",
+    "role": "Farmer",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "village": "Ozar",
+    "preferredLanguage": "en",
+    "avatarUrl": "/src/assets/images/avatar_farmer_1793370389630.jpg",
+    "createdAt": "2026-01-15T08:30:00.000Z",
+    "updatedAt": "2026-10-30T07:00:00.000Z"
+  },
+  {
+    "_id": "usr_admin_001",
+    "name": "Devendra Sharma",
+    "email": "admin@agritech.com",
+    "phone": "+91 91234 56789",
+    "password": "$2b$10$XFkJH0O1u/jLehpqxYUx1ulesPNJjirW5mDFiykY7KNQtbxSu.uUa",
+    "role": "Admin",
+    "state": "Delhi",
+    "district": "New Delhi",
+    "village": "IARI Pusa Campus",
+    "preferredLanguage": "en",
+    "avatarUrl": "",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-10-30T07:00:00.000Z"
+  },
+  {
+    "_id": "usr_expert_001",
+    "name": "Dr. Aris Thorne",
+    "email": "expert@agritech.com",
+    "phone": "+91 94567 89012",
+    "password": "$2b$10$U8ILGjcFcHSQ8GJ/0ALXHO2TIpr0bUX5uDL7xoUtDuei0Thbwg3FC",
+    "role": "Agricultural Expert",
+    "state": "Punjab",
+    "district": "Ludhiana",
+    "village": "PAU Agricultural Research Zone",
+    "preferredLanguage": "en",
+    "avatarUrl": "/src/assets/images/avatar_expert_1793370389955.jpg",
+    "createdAt": "2026-01-10T10:00:00.000Z",
+    "updatedAt": "2026-10-30T07:00:00.000Z"
+  }
+]

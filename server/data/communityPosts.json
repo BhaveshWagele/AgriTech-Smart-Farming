@@ -1,0 +1,49 @@
+[
+  {
+    "_id": "post_001",
+    "userId": "usr_farmer_001",
+    "authorName": "Ramesh Patel",
+    "authorRole": "Farmer",
+    "title": "Experience with solar drip timers: 35% electricity savings this rabi season",
+    "content": "We retrofitted our Godavari plot with solar-powered solenoid valves and soil moisture tensiometers. Now irrigation cycles start automatically at 5:00 AM before the sun peaks, eliminating evaporative loss. Has anyone else paired this with solar insect traps?",
+    "category": "Irrigation",
+    "tags": [
+      "DripIrrigation",
+      "SolarPower",
+      "WaterConservation",
+      "SmartFarming"
+    ],
+    "likes": [
+      "usr_admin_001",
+      "usr_expert_001"
+    ],
+    "likesCount": 24,
+    "commentsCount": 3,
+    "imageUrl": "/src/assets/images/hero_smart_farm_1793370388941.jpg",
+    "isModerated": false,
+    "createdAt": "2026-10-22T08:15:00.000Z"
+  },
+  {
+    "_id": "post_002",
+    "userId": "usr_expert_001",
+    "authorName": "Dr. Aris Thorne",
+    "authorRole": "Agricultural Expert",
+    "title": "Advisory: Early detection protocol for Fall Armyworm in late-sown maize",
+    "content": "Farmers in northern and western belts should scout maize whorls twice weekly. Look for window-pane feeding signs and pinhole punctures. Installing 4 pheromone traps per acre acts as an early warning threshold before larvae penetrate the stalk.",
+    "category": "Crop Care",
+    "tags": [
+      "PestAlert",
+      "MaizeFarming",
+      "IPM",
+      "Advisory"
+    ],
+    "likes": [
+      "usr_farmer_001"
+    ],
+    "likesCount": 42,
+    "commentsCount": 5,
+    "imageUrl": "/src/assets/images/disease_leaf_blight_1793370391634.jpg",
+    "isModerated": false,
+    "createdAt": "2026-10-25T16:00:00.000Z"
+  }
+]

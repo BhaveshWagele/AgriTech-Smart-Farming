@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "cons_001",
+    "farmerId": "usr_farmer_001",
+    "farmerName": "Ramesh Patel",
+    "farmerPhone": "+91 98765 43210",
+    "expertId": "exp_001",
+    "expertName": "Dr. Aris Thorne",
+    "subject": "Concentric brown rings on lower tomato leaves",
+    "question": "I noticed circular spots with yellow halos appearing on the bottom leaves of my Abhinav hybrid tomatoes after the recent unseasonal rain. Should I prune them or spray systemic fungicide?",
+    "cropName": "Organic Tomatoes",
+    "status": "Answered",
+    "answer": "This is Early Blight caused by Alternaria solani. Immediately prune off infected lower leaves and destroy them away from the field. Avoid overhead watering. Spray copper oxychloride at 2.5g/L or Mancozeb 75 WP at 2g/L. If adhering to strict organic protocols, apply Bacillus subtilis formulation with 0.5% neem oil.",
+    "answeredAt": "2026-10-24T15:20:00.000Z",
+    "priority": "Urgent",
+    "createdAt": "2026-10-24T09:10:00.000Z"
+  },
+  {
+    "_id": "cons_002",
+    "farmerId": "usr_farmer_001",
+    "farmerName": "Ramesh Patel",
+    "farmerPhone": "+91 98765 43210",
+    "expertId": "exp_002",
+    "expertName": "Prof. Suresh Deshmukh",
+    "subject": "Micronutrient application timing for Sharbati Wheat",
+    "question": "Our soil test showed zinc at 0.65 ppm (slightly below critical limit). What is the optimal stage to foliar spray zinc so grain filling is not hindered?",
+    "cropName": "Sharbati Wheat",
+    "status": "Answered",
+    "answer": "Foliar application of 0.5% Zinc Sulphate (heptahydrate) neutralized with 0.25% slaked lime is most effective at the tillering stage and repeat at boot-leaf stage. This enhances both ear length and grain weight.",
+    "answeredAt": "2026-10-26T11:45:00.000Z",
+    "priority": "Normal",
+    "createdAt": "2026-10-25T14:00:00.000Z"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "AgriTech – Smart Farming Management System",
+  "description": "A comprehensive digital farming ecosystem empowering farmers with farm and crop management, soil health analysis, live weather advisories, AI crop disease alerts, agricultural marketplace, expert consultation, and community discussions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

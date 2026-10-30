@@ -1,0 +1,128 @@
+[
+  {
+    "_id": "prod_001",
+    "name": "Certified Sharbati Wheat Seeds (HD-2967)",
+    "category": "Seeds",
+    "brand": "National Seeds Corp",
+    "price": 1250,
+    "originalPrice": 1500,
+    "unit": "40 kg bag",
+    "stock": 85,
+    "rating": 4.8,
+    "reviewsCount": 142,
+    "description": "High yielding, rust-resistant certified wheat seed variety with 12.5% grain protein and superior milling traits.",
+    "features": [
+      "Germination rate > 92%",
+      "Tolerance to yellow rust",
+      "Optimum sowing October-November"
+    ],
+    "imageUrl": "/src/assets/images/crop_wheat_healthy_1793370391092.jpg",
+    "inStock": true,
+    "createdAt": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "prod_002",
+    "name": "Organic Neem Oil Bio-Pesticide (10000 PPM)",
+    "category": "Pesticides",
+    "brand": "AgriBio Care",
+    "price": 680,
+    "originalPrice": 850,
+    "unit": "1 Litre bottle",
+    "stock": 120,
+    "rating": 4.9,
+    "reviewsCount": 98,
+    "description": "Cold-pressed pure azadirachtin formulation effective against sucking pests, aphids, thrips, and caterpillars.",
+    "features": [
+      "100% Organic certified",
+      "Zero residue on harvest",
+      "Safe for honeybees & ladybugs"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "createdAt": "2026-05-10T00:00:00.000Z"
+  },
+  {
+    "_id": "prod_003",
+    "name": "Automated 1-Acre Drip Irrigation Kit",
+    "category": "Irrigation Equipment",
+    "brand": "Jain Precision Flow",
+    "price": 18500,
+    "originalPrice": 22000,
+    "unit": "Complete kit",
+    "stock": 24,
+    "rating": 4.7,
+    "reviewsCount": 56,
+    "description": "Complete micro-irrigation set with pressure compensating drippers, screen filter, venturi injector, and UV-stabilized LDPE pipes.",
+    "features": [
+      "Water savings up to 60%",
+      "Includes venturi fertigation unit",
+      "5-year manufacturer warranty"
+    ],
+    "imageUrl": "/src/assets/images/hero_smart_farm_1793370388941.jpg",
+    "inStock": true,
+    "createdAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "prod_004",
+    "name": "Water Soluble NPK 19-19-19 Fertilizer",
+    "category": "Fertilizers",
+    "brand": "IFFCO AgroChem",
+    "price": 1450,
+    "originalPrice": 1750,
+    "unit": "25 kg bag",
+    "stock": 210,
+    "rating": 4.8,
+    "reviewsCount": 220,
+    "description": "100% water-soluble balanced crystalline fertilizer ideal for drip fertigation and foliar spray at vegetative stages.",
+    "features": [
+      "Completely free from chloride and sodium",
+      "Quick plant absorption",
+      "Promotes balanced root & shoot growth"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "_id": "prod_005",
+    "name": "Rechargeable 16L Battery Knapsack Sprayer",
+    "category": "Farming Equipment",
+    "brand": "KisanForce Power",
+    "price": 2950,
+    "originalPrice": 3800,
+    "unit": "1 Unit with charger & 4 nozzles",
+    "stock": 45,
+    "rating": 4.6,
+    "reviewsCount": 78,
+    "description": "12V 8Ah lithium-ion battery sprayer with pressure regulator, stainless steel telescopic lance, and dual-speed pump.",
+    "features": [
+      "Up to 6 hours continuous spray per charge",
+      "Backrest ergonomic sponge padding",
+      "Includes fan and cone nozzles"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1595841696677-6489ff3f8cd1?auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "createdAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "_id": "prod_006",
+    "name": "Premium Vermicompost (Earthworm Organic Manure)",
+    "category": "Organic Products",
+    "brand": "Dharti Ratna Organics",
+    "price": 499,
+    "originalPrice": 650,
+    "unit": "50 kg bag",
+    "stock": 160,
+    "rating": 4.9,
+    "reviewsCount": 165,
+    "description": "A-grade enriched vermicompost cultured from cow dung using Eisenia fetida worms. Enriched with natural humic acid and beneficial microbes.",
+    "features": [
+      "High water holding capacity",
+      "Improves soil biodiversity",
+      "Non-toxic and odor-free"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "createdAt": "2026-07-20T00:00:00.000Z"
+  }
+]

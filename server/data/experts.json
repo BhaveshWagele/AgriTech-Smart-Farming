@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "exp_001",
+    "userId": "usr_expert_001",
+    "name": "Dr. Aris Thorne",
+    "title": "Senior Agronomist & Plant Pathologist",
+    "specialization": "Crop Disease Diagnostics & IPM (Integrated Pest Management)",
+    "experienceYears": 14,
+    "organization": "Punjab Agricultural University / AgriTech Council",
+    "rating": 4.95,
+    "consultationCount": 384,
+    "bio": "PhD in Plant Virology with 14+ years advising smallholder farmers on fungal rusts, blights, and biological pest controls.",
+    "avatarUrl": "/src/assets/images/avatar_expert_1793370389955.jpg",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Thursday",
+      "Friday"
+    ],
+    "contactEmail": "aris.thorne@agritech.com",
+    "createdAt": "2026-01-10T10:00:00.000Z"
+  },
+  {
+    "_id": "exp_002",
+    "name": "Prof. Suresh Deshmukh",
+    "title": "Chief Soil Health & Precision Nutrient Specialist",
+    "specialization": "Soil Chemistry, Salinity Remediation & Micro-Nutrients",
+    "experienceYears": 19,
+    "organization": "Mahatma Phule Krishi Vidyapeeth, Rahuri",
+    "rating": 4.88,
+    "consultationCount": 512,
+    "bio": "Renowned soil scientist focused on regenerating black cotton soils, balancing NPK ratios, and maximizing drip fertigation yields.",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Saturday"
+    ],
+    "contactEmail": "suresh.deshmukh@mpkv-agri.org",
+    "createdAt": "2026-02-05T09:00:00.000Z"
+  },
+  {
+    "_id": "exp_003",
+    "name": "Er. Kavita Nair",
+    "title": "Agricultural Water & Micro-Irrigation Engineer",
+    "specialization": "Smart Drip Automation, Water Budgeting & Solar Pumps",
+    "experienceYears": 11,
+    "organization": "National Water Technology Institute",
+    "rating": 4.92,
+    "consultationCount": 290,
+    "bio": "Designs precision water delivery systems that cut consumption by 40% while preventing salt crystallization and root rot.",
+    "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+    "availableDays": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "contactEmail": "kavita.nair@agriwater.org",
+    "createdAt": "2026-03-01T12:00:00.000Z"
+  }
+]

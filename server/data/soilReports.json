@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "soil_001",
+    "farmId": "farm_001",
+    "userId": "usr_farmer_001",
+    "farmName": "Godavari Green Acres",
+    "nitrogen": 280,
+    "phosphorus": 44,
+    "potassium": 310,
+    "ph": 7.2,
+    "moisture": 38,
+    "temperature": 24.5,
+    "soilType": "Black (Regur)",
+    "healthScore": 88,
+    "nutrientStatus": {
+      "nitrogenStatus": "Optimal",
+      "phosphorusStatus": "High",
+      "potassiumStatus": "Optimal"
+    },
+    "phStatus": "Neutral",
+    "moistureStatus": "Adequate",
+    "recommendations": [
+      "Maintain present organic carbon with green manuring (dhaincha or sunn hemp).",
+      "Reduce single superphosphate addition by 15% due to high residual phosphorus bank.",
+      "Schedule next irrigation in 3 days based on current soil water tension (32 kPa)."
+    ],
+    "suitableCrops": [
+      "Wheat",
+      "Cotton",
+      "Chickpea",
+      "Soybean",
+      "Sunflower"
+    ],
+    "notes": "Soil structure is rich in montmorillonite clay with excellent water retention capacity.",
+    "createdAt": "2026-10-15T10:30:00.000Z"
+  },
+  {
+    "_id": "soil_002",
+    "farmId": "farm_002",
+    "userId": "usr_farmer_001",
+    "farmName": "Surya Organic Terraces",
+    "nitrogen": 195,
+    "phosphorus": 18,
+    "potassium": 220,
+    "ph": 6.4,
+    "moisture": 22,
+    "temperature": 26,
+    "soilType": "Sandy Loam",
+    "healthScore": 68,
+    "nutrientStatus": {
+      "nitrogenStatus": "Low",
+      "phosphorusStatus": "Low",
+      "potassiumStatus": "Optimal"
+    },
+    "phStatus": "Neutral",
+    "moistureStatus": "Deficient",
+    "recommendations": [
+      "Incorporate 5 tons/acre well-rotted farmyard manure (FYM) or vermicompost.",
+      "Apply mycorrhizal biofertilizers (VAM) to unlock bound soil phosphorus.",
+      "Increase drip cycle duration by 20 minutes to restore root-zone field capacity."
+    ],
+    "suitableCrops": [
+      "Tomato",
+      "Bell Pepper",
+      "Groundnut",
+      "Carrot",
+      "Maize"
+    ],
+    "notes": "Light texture allows rapid drainage. Requires organic matter buildup to retain moisture.",
+    "createdAt": "2026-10-22T14:15:00.000Z"
+  }
+]

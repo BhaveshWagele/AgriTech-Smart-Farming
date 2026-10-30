@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "farm_001",
+    "userId": "usr_farmer_001",
+    "name": "Godavari Green Acres",
+    "location": "Plot 42, Ozar Shivar, Nashik",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "village": "Ozar",
+    "landArea": 14.5,
+    "areaUnit": "acres",
+    "soilType": "Black (Regur)",
+    "irrigationMethod": "Drip Irrigation",
+    "description": "Specialized horticulture and grain parcel along the Godavari canal network equipped with automated drip lines.",
+    "coordinates": {
+      "lat": 20.0754,
+      "lng": 73.9168
+    },
+    "createdAt": "2026-02-01T09:00:00.000Z",
+    "updatedAt": "2026-10-30T07:00:00.000Z"
+  },
+  {
+    "_id": "farm_002",
+    "userId": "usr_farmer_001",
+    "name": "Surya Organic Terraces",
+    "location": "Survey 118, Niphad Highway",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "village": "Niphad",
+    "landArea": 8,
+    "areaUnit": "acres",
+    "soilType": "Sandy Loam",
+    "irrigationMethod": "Sprinkler System",
+    "description": "Certified organic vegetable and pulse cultivation with automated moisture sensors.",
+    "coordinates": {
+      "lat": 20.0901,
+      "lng": 74.1122
+    },
+    "createdAt": "2026-03-12T11:00:00.000Z",
+    "updatedAt": "2026-10-30T07:00:00.000Z"
+  },
+  {
+    "_id": "farm_003",
+    "userId": "usr_farmer_001",
+    "name": "Krishna Basin Valley Farm",
+    "location": "Sector 5, Karad Agro Cluster",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "village": "Karad",
+    "landArea": 22,
+    "areaUnit": "acres",
+    "soilType": "Alluvial",
+    "irrigationMethod": "Canal Irrigation",
+    "description": "High-yield sugarcane and wheat rotation estate with micro-climate monitoring.",
+    "coordinates": {
+      "lat": 17.2891,
+      "lng": 74.1834
+    },
+    "createdAt": "2026-04-18T14:30:00.000Z",
+    "updatedAt": "2026-10-30T07:00:00.000Z"
+  }
+]

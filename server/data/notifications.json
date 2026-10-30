@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "notif_001",
+    "userId": "usr_farmer_001",
+    "title": "High Humidity Weather Advisory",
+    "message": "RH expected above 85% with morning dew over Nashik district. Risk of fungal sporulation on vegetables. Check spray conditions.",
+    "type": "weather",
+    "read": false,
+    "link": "/weather",
+    "createdAt": "2026-10-30T05:00:00.000Z"
+  },
+  {
+    "_id": "notif_002",
+    "userId": "usr_farmer_001",
+    "title": "Harvest Window Approaching",
+    "message": "Pusa Basmati Rice on Farm #1 has reached 115 days. Expected grain maturity in 6 days.",
+    "type": "harvest",
+    "read": false,
+    "link": "/crops",
+    "createdAt": "2026-10-29T10:30:00.000Z"
+  },
+  {
+    "_id": "notif_003",
+    "userId": "usr_farmer_001",
+    "title": "Expert Replied to Consultation",
+    "message": "Dr. Aris Thorne provided recommendations for your tomato blight inquiry.",
+    "type": "consultation",
+    "read": true,
+    "link": "/consultation",
+    "createdAt": "2026-10-24T15:21:00.000Z"
+  }
+]

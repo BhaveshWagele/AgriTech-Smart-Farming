@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "ord_001",
+    "userId": "usr_farmer_001",
+    "farmerName": "Ramesh Patel",
+    "orderNumber": "AGR-2026-78901",
+    "items": [
+      {
+        "productId": "prod_001",
+        "name": "Certified Sharbati Wheat Seeds (HD-2967)",
+        "price": 1250,
+        "quantity": 2,
+        "imageUrl": "/src/assets/images/crop_wheat_healthy_1793370391092.jpg",
+        "unit": "40 kg bag"
+      },
+      {
+        "productId": "prod_002",
+        "name": "Organic Neem Oil Bio-Pesticide (10000 PPM)",
+        "price": 680,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=600&q=80",
+        "unit": "1 Litre bottle"
+      }
+    ],
+    "totalAmount": 3180,
+    "shippingAddress": {
+      "fullName": "Ramesh Patel",
+      "phone": "+91 98765 43210",
+      "state": "Maharashtra",
+      "district": "Nashik",
+      "village": "Ozar",
+      "address": "Plot 42, Near Godavari Canal Branch, Ozar Shivar",
+      "pincode": "422206"
+    },
+    "paymentMethod": "Cash on Delivery (Demo)",
+    "paymentStatus": "Pending",
+    "orderStatus": "Shipped",
+    "trackingNumber": "TRK-IND-994821",
+    "createdAt": "2026-10-27T10:00:00.000Z",
+    "estimatedDelivery": "2026-11-01"
+  }
+]

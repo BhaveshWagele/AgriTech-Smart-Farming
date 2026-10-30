@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "act_001",
+    "farmId": "farm_001",
+    "farmName": "Godavari Green Acres",
+    "cropId": "crop_001",
+    "cropName": "Sharbati Wheat",
+    "userId": "usr_farmer_001",
+    "activityType": "Fertilization",
+    "date": "2026-10-28",
+    "notes": "Applied second top dressing of neem-coated urea at 45 kg/acre with drip line flush.",
+    "completed": true,
+    "createdAt": "2026-10-28T17:00:00.000Z"
+  },
+  {
+    "_id": "act_002",
+    "farmId": "farm_001",
+    "farmName": "Godavari Green Acres",
+    "cropId": "crop_001",
+    "cropName": "Sharbati Wheat",
+    "userId": "usr_farmer_001",
+    "activityType": "Irrigation",
+    "date": "2026-10-31",
+    "notes": "Critical flowering stage irrigation scheduled for morning 6:00 AM.",
+    "completed": false,
+    "createdAt": "2026-10-29T08:00:00.000Z"
+  },
+  {
+    "_id": "act_003",
+    "farmId": "farm_002",
+    "farmName": "Surya Organic Terraces",
+    "cropId": "crop_003",
+    "cropName": "Organic Tomatoes",
+    "userId": "usr_farmer_001",
+    "activityType": "Pesticide Spray",
+    "date": "2026-10-25",
+    "notes": "Neem seed kernel extract (NSKE 5%) sprayed targeting early blight spots.",
+    "completed": true,
+    "createdAt": "2026-10-25T11:00:00.000Z"
+  }
+]
